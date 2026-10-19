@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "880138669126",
+    "project_id": "akwabahealth",
+    "storage_bucket": "akwabahealth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880138669126:android:2495412c65e28225130e47",
+        "android_client_info": {
+          "package_name": "com.example.akwaba_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880138669126-548h3a9gnd0l54gu4e7nthqnod30a7h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akwaba_health",
+            "certificate_hash": "84f781a062600f6bc43e070ccc4f5271ac5f8eb2"
+          }
+        },
+        {
+          "client_id": "880138669126-5iuj2cirtj38niqqk4s0sb3d389inb2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVYygpBeznk84lmqtTbTKF1jP7z3m9XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880138669126-5iuj2cirtj38niqqk4s0sb3d389inb2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "880138669126-3799igrp0qfoqmkabrm6pbhotod55200.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akwabaHealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
