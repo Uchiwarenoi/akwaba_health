@@ -96,7 +96,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ),
 
-        /// CONTENU
+       
         const Expanded(
           child: ListeChoix(),
         ),
